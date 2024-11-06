@@ -2,6 +2,6 @@
 
 Hey
 
-This is a repository for a Portable Workbench on MCreator.
+This is a repository for a Remote Workspace on MCreator.
 
 Ignore :)
